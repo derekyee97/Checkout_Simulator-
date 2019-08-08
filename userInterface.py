@@ -1,7 +1,3 @@
-#Authors: Kim Krishnan, Tanya Wanwatanakool, Derek Yee
-#Assignment: Group Project #1
-#Topic: Using SQLite3 and Python to simulate online store
-#=========================================================
 ##Creates connection to sqlite database
 # @param None
 # @return sqlite cursor
